@@ -14,5 +14,5 @@ Python é uma linguagem de programação poderosa e fácil de aprender. Possui e
 # Sobre este repertorio:
 Estou cursando analise e desenvolvimento pela Unicesumar e como tenho grande apreço pela linguagem Python, 
 estou praticando para melhorar.
-Nesse codigo colocar uma estrura de repetição com opções onde o usuario pode abrir ou deletar as pastas desejas, desde que informe corretamente o caminho.
+Esse codigo foi construido com uma estrura de repetição com opções onde o usuario pode abrir ou deletar as pastas desejas, desde que informe corretamente o caminho.
 Estou aprendendo sobre o desenvolvimento na linguagem Python (.py).
