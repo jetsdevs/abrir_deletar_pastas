@@ -56,7 +56,7 @@ while True:
 
     if opcao == 0:
         break
-    elif opcao != [1, 2]:
+    elif opcao not in [1, 2]:
         print("Opção Inválida, tente novamente!")
 
     if opcao == 1:
