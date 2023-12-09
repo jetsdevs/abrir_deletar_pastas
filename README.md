@@ -1,0 +1,1 @@
+# abrir_deletar_pastas
